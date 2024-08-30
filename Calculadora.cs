@@ -11,7 +11,7 @@ namespace NewTalents
         // usar a data no historico
         private string data;
 
-        //construtor
+        //construtor 
         public Calculadora(string data)
         {
             listaHistorico = new List<string>();

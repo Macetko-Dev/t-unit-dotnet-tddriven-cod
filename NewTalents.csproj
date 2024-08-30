@@ -1,8 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
-
+  <ItemGroup>
+    <Content Include="Calculadora.cs" />
+    <Content Include="Program.cs" />
+    <Content Include=".gitignore" />
+    <Content Include=".gitattributes" />
+    <Content Include=".idea\.gitignore" />
+    <Content Include="README.md" />
+    <Content Include="NewTalents.sln" />
+    <Content Include="LICENSE.txt" />
+  </ItemGroup>
 </Project>
